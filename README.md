@@ -97,8 +97,8 @@ supportdesk/
 │   ├── index.html                 ← Entry page template
 │   └── package.json               ← Client dependencies
 │
-├── Customer_Support_Ticket_Tracker_Guide.docx ← Compiled Styled Handbook Guide
-└── README.md                      ← Recruiter blueprint handbook
+├── Customer_Support_Ticket_Tracker_Guide.docx 
+└── README.md                     
 ```
 
 ---
