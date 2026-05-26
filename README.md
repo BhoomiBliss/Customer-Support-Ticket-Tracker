@@ -194,7 +194,7 @@ Lists support cases (paginated limit 5, searchable and filterable).
 #### POST `/tickets`
 Raises a support request (accessible by **Customers** only). Generates `CREATE_TICKET` audit log.
 
-#### PUT `/tickets/:id/status`
+#### PUT `/tickets/:id/status` 
 Updates case status (accessible by **Agents/Admins** only). Generates `TicketHistory` progress transition entry and `UPDATE_STATUS` audit log.
 - **Payload:**
   ```json
